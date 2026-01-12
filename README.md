@@ -43,4 +43,6 @@ python-homeworks/
 │   ├── hw_1/
 │   └── ...
 │
+├── module_.../
+│
 └── README.md

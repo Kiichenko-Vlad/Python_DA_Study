@@ -28,19 +28,19 @@
 ```text
 python-homeworks/
 │
-├── module_09/
-│   ├── hw_01/
-│   │   └── main.py
-│   ├── hw_02/
-│   │   └── task.py
+├── module_9/
+│   ├── hw_1/
+│   ├── hw_2/
+│   ├── hw_3/
+│   └── ...
 │
 ├── module_10/
-│   ├── hw_01/
-│   ├── hw_02/
+│   ├── hw_1/
+│   ├── hw_2/
 │   └── ...
 │
 ├── module_11/
-│   ├── hw_01/
+│   ├── hw_1/
 │   └── ...
 │
 └── README.md

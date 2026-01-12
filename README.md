@@ -30,13 +30,14 @@ Python_DA_Study/
 │
 ├── module_9/
 │   ├── hw_1/
+│   │   └── hw_1.ipynb
 │   ├── hw_2/
-│   ├── hw_3/
+│   │   └── hw_2.ipynb
 │   └── ...
 │
 ├── module_10/
 │   ├── hw_1/
-│   ├── hw_2/
+│   │   └── hw_1.ipynb
 │   └── ...
 │
 ├── module_11/
